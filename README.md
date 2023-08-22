@@ -1,5 +1,5 @@
 # geofence-to-geohash-grid
-- geofence to geohash grid. <br/> 
+geofence to geohash grid <br/> 
 **Perks**: Every grid has unique id and the id is same for the given location with precision mode.
 # Screenshots
 
